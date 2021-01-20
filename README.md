@@ -4,7 +4,7 @@
 
 - pandas
 - yagmail
-- request
+- requests
 
 代码可以批量填报，请在csv里面填写个人信息，密码是数字石大的密码
 
