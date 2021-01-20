@@ -1,2 +1,4 @@
-# yqfk
-autoreport
+＃UPC疫情防控自动批量填报
+
+代码使用python3编写，请确认您的服务器里面安装了以下几个库以运行此代码
+大熊猫，yagmailrequest
